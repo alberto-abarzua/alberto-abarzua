@@ -31,7 +31,7 @@ This project is at a very early stage. These are some examples of what works for
 <br>
 <a href="https://github.com/alberto-abarzua/computer_vision_experiments">
   <img src="src/vision.png" style = "width: 30rem;" alt="">
-</a><br>
+</a>
 <a href="https://github.com/alberto-abarzua/computer_vision_experiments">
   <img src="src/another.png" style = "width: 30rem;" alt="">
 </a><br>
