@@ -1,13 +1,12 @@
-# Hi 👋 My name is Alberto Abarzua.
+# Hi 👋 
 
-I am studying Computer Science 💻 (Ingenieriai Civil en Ciencas de la Computacion) at Universad de Chile (Santiago, Chile).
+My name is Alberto Abarzua, I'm studying Computer Science 💻 (Ingenieriai Civil en Ciencas de la Computacion) at Universad de Chile (Santiago, Chile).
 
 
 - 📫 How to reach me: 
   - Mail: aabarzua@palvi.cl
 
 # 🔭 Current Main Projects 🔭:
-<br>
 
 
 ## 🦾 3D Printed Robot Arm:
@@ -25,19 +24,12 @@ I am studying Computer Science 💻 (Ingenieriai Civil en Ciencas de la Computac
 ## ✨ Computer Vision for Robot Arm.
 Newest project with the objective of controlling the robot arm's movements employing object detection via computer vision using a webcam.
 
+This project is at a very early stage. These are some examples of what works for the moment.
 
 
-<!--
-**alberto-abarzua/alberto-abarzua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<a href="https://github.com/alberto-abarzua/3d_printed_robot_arm">
+  <img src="src/vision.png" style = "width: 30rem;" alt="">
+</a><br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
