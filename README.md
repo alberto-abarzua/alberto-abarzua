@@ -22,7 +22,7 @@ My name is Alberto Abarzua, I'm studying Computer Science 💻 (Ingenieriai Civi
 [Go to RobotArm repository](https://github.com/alberto-abarzua/3d_printed_robot_arm)
 
 ## ✨ Computer Vision for Robot Arm.
-Newest project with the objective of controlling the robot arm's movements employing object detection via computer vision using a webcam.
+Newest project with the objective of controlling the robot-arm's movements employing object detection via computer vision using a webcam.
 
 This project is at a very early stage. These are some examples of what works for the moment.
 
