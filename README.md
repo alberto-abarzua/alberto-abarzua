@@ -26,10 +26,14 @@ Newest project with the objective of controlling the robot arm's movements emplo
 
 This project is at a very early stage. These are some examples of what works for the moment.
 
+### Examples
 
 <br>
-<a href="https://github.com/alberto-abarzua/3d_printed_robot_arm">
+<a href="https://github.com/alberto-abarzua/computer_vision_experiments">
   <img src="src/vision.png" style = "width: 30rem;" alt="">
 </a><br>
+<a href="https://github.com/alberto-abarzua/computer_vision_experiments">
+  <img src="src/another.png" style = "width: 30rem;" alt="">
+</a><br>
 
-
+[Go to CV repository](https://github.com/alberto-abarzua/computer_vision_experiments)
