@@ -12,7 +12,7 @@ My name is Alberto Abarzua, I'm studying Computer Science 💻 (Ingenieriai Civi
 ## 🦾 3D Printed Robot Arm:
 
 
- This project consists of a 3D printable robot arm (6DOF) with it's controlling software and firmware all coded from scratch.
+ This project consists of a 3D printable robot arm (6DOF) with it's controlling software and firmware all coded and designed from scratch.
 
 <br>
 <a href="https://github.com/alberto-abarzua/3d_printed_robot_arm">
