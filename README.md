@@ -6,7 +6,7 @@ My name is Alberto Abarzua, I'm studying Computer Science 💻 (Ingenieriai Civi
 - 📫 How to reach me: 
   - Mail: aabarzua@palvi.cl
 
-# 🔭 Current Main Projects 🔭:
+# 🔭 Current Main Personal Projects 🔭:
 
 
 ## 🦾 3D Printed Robot Arm:
