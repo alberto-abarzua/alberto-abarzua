@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**alberto-abarzua/alberto-abarzua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <pre>
+  __________________________________________________
+  |                                                |
+  |  >_ By: Alberto Abarzúa                        |
+  |  >_ Full Stack Developer && Computer Science   |
+  |     Engineer                                   |
+  |                                                |
+  |  [About Me]                                    |
+  |  A full-stack developer passionate about       |
+  |  end-to-end technology solutions. I love       |
+  |  learning new things and applying them         |
+  |  creatively in my projects, spanning from web  |
+  |  development to deep learning and electronics. |
+  |                                                |
+  |  <a href="https://b3to.dev">Go to my website</a>                              |
+  |________________________________________________|
+    </pre>
+</p>
